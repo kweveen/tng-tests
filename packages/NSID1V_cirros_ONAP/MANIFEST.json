@@ -1,0 +1,17 @@
+{
+    "name": "", 
+    "description": "", 
+    "data": [
+        {
+            "file": "cirros_vnfd.yaml",
+            "type": "HEAT", 
+            "isBase": "true", 
+            "data": [
+                {
+                    "file": "cirros_vnfd.env",
+                    "type": "HEAT_ENV"
+                }
+            ]
+        }
+    ]
+}
